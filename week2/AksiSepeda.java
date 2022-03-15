@@ -9,7 +9,7 @@ class Sepeda {
         this.jenis = jenis;
         this.merk = merk;
 
-        System.out.println("Sepeda " + merk + " bermerk " + jenis + " memiliki jumlah roda " + jumlahRoda);
+        System.out.println("Sepeda " + jenis + " bermerk " + merk + " memiliki jumlah roda " + jumlahRoda);
     }
 
     void ngerem() {
