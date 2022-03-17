@@ -1,2 +1,2 @@
 language = "java10"
-run = "javac week2/AksiSepeda.java && java week2.AksiSepeda && javac week2/AksiLampu.java && java week2.AksiLampu"
+run = "javac week3/Waktu.java && java week3.Waktu javac week3/Complex.java && java week3.Complex"
